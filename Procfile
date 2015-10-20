@@ -1,1 +1,1 @@
-web: node helloworld.js
+web: node bin/www.js
