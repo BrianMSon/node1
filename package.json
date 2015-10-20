@@ -1,0 +1,33 @@
+{
+  "name": "test2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "async": "~1.4.2",
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "ejs": "^2.3.4",
+    "express": "~4.13.1",
+    "express-domain-middleware": "*",
+    "ioredis": "^1.9.0",
+    "jade": "~1.11.0",
+    "json": "*",
+    "memcached": "~2.2.0",
+    "moment": "*",
+    "mongodb": "~2.0.42",
+    "morgan": "~1.6.1",
+    "mysql": "*",
+    "node-redis": "~0.1.7",
+    "redis": "^2.0.1",
+    "serve-favicon": "~2.3.0",
+    "sleep": "~3.0.0",
+    "socket.io": "*",
+    "socket.io-redis": "*",
+    "socketio-sticky-session": "^0.3.0",
+    "vows": "~0.8.1",
+    "winston": "~1.0.1"
+  }
+}
